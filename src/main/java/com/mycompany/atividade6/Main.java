@@ -1,7 +1,7 @@
 package com.mycompany.atividade6;
 import java.util.Scanner;
 
-public class Atividade6 extends Jogar{
+public class Main extends Jogar{
     public static void main(String[] args) {
         System.out.println("\n----------JOGO PEDRA, PAPEL E TESOURA----------\n");
         Scanner scanner = new Scanner(System.in);
